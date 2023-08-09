@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yulduzli tunlar</string>
+    <string name="open">Ochiq</string>
+    <string name="close">Yopiq</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">Biz bu ilovani tariximizni va ajdodlarimizni o`rganishni o`z oldiga maqsad qilib qo`ygan insonlar uchun yaratdik. Bu ilovada mashxur yozuvchi Primqul Qodirovning Yulduzli Tunlar romaninig audio varianti jamlangan. Bu asarda shoh va shoir bo`lmish bizning buyuk bobokalonimiz Zahiriddin Muhammad Boburning hayoti, boshidan o`tkazgan kunlari tasvirlangan. Bu audio kitob juda qiziqarli va o`qish davrida umuman zerikib qolmaysiz.</string>
+</resources>
